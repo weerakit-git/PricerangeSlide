@@ -1,4 +1,4 @@
-# 🖼️ ImageSlider
+# 🤑 PricerangeSlide
 
 [![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)](https://weerakit-git.github.io/PricerangeSlide/)
 
